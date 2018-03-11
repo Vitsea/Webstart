@@ -1,0 +1,13 @@
+body {
+    max-width: 400px;
+    margin: auto;
+    background: blue;
+    color:powderblue;  
+  
+}
+.link {
+    padding: 5px 10px;
+    background: white;
+    color: red;
+    text-decoration: none
+}
