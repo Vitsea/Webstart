@@ -1,13 +1,13 @@
 body {
     max-width: 400px;
     margin: auto;
-    background: blue;
-    color:#19a3b4;  
+    background: #4c4c98;
+    color:#062529;  
   
 }
 .link {
     padding: 5px 10px;
-    background: #6adb89;
-    color: #5f5540;
+    background: #74bf7a;
+    color: #343434;
     text-decoration: none
 }
